@@ -3,7 +3,7 @@
 ## DigitalCloud 介绍
 DigitalCloud 是葡萄牙公司HLISTAN ZOLERANI, UNIPESSOAL LDA旗下的云服务器品牌，成立于2023年2月。该公司提供全球32个数据中心的云服务器服务，支持无限次免费切换机房，全部采用1Gbps不限流量配置。DigitalCloud 还支持15天无条件退款，最低配置月付仅需2.3美元起，支持加密货币、信用卡、PayPal、支付宝、微信、银联、Google & Apple Pay、Stripe和Perfect Money等多种付款方式。网站提供中文版本，方便中国用户使用。
 
-![DigitalCloud](https://github.com/user-attachments/assets/0963434c-777f-4f70-a84c-2445e11853e4)
+![DigitalCloud](https://github.com/user-attachments/assets/6abe7859-aa9f-4e1b-b9ae-1f4a5764674e)
 
 ## DigitalCloud 官网地址
 DigitalCloud 官网：[https://www.digitalcloud.pro](https://digitalcloud.pro/?ref=197324)
